@@ -1,0 +1,11 @@
+ls
+mkdir LISP
+l
+ls
+cd LISP/
+ls
+git clone https://github.com/pii5656/pazzle.git
+ls
+cd pazzle
+ls
+emacs main.lisp 
